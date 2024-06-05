@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
+- Solution URL: [Checkout solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-semantic-html5-and-flexbox-VXk7I8MpUi)
 - Live Site URL: [visit website](https://iamhimesh07.github.io/frontend-mentor-challenges/qr-code-component/)
 
 ## My process
