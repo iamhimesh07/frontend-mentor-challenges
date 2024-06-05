@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Outfit', 'Roboto', sans-serif;
+  /* background-color: #f5f5f5; */
+  background-color: #D5E1EF;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.qr-code-card {
+  width: 352px;
+  height: 497px;
+  /* background-color: #fff; */
+  background-color: #f5f5f5;
+
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.qr-code-image {
+  width: 288px;
+  height: 288px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.qr-code-description,
+.qr-code-title,
+.qr-code-more-info {
+  margin-top: 20px;
+}
+
+.qr-code-title {
+  font-size: 20px;
+  color: #333;
+  font-weight: bold;
+}
+
+.qr-code-more-info {
+  font-size: 15px;
+  color: #666;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
